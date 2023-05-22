@@ -8,7 +8,7 @@
 - Technology
 - 
 - 🌱 I’m currently learning ... 
-- Computer Sciece degree
+- Cybersecurity and Appication Development at National Louis University.
 - 
 - 📫 How to reach me ...
 - Email: emanuelramos917@gmail.com
